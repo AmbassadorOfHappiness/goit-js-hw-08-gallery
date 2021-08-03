@@ -1,1 +1,1 @@
-https://github.com/AmbassadorOfHappiness/goit-js-hw-08-gallery
+https://ambassadorofhappiness.github.io/goit-js-hw-08-gallery/
