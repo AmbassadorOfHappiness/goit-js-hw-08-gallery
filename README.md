@@ -1,1 +1,1 @@
-<a href="/homework-8/src/index.html">Задание</a>
+<a href="https://ambassadorofhappiness.github.io/goit-js-hw-08-gallery/src/index.html">Задание</a>
