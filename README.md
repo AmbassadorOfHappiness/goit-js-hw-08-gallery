@@ -1,1 +1,1 @@
-https://ambassadorofhappiness.github.io/goit-js-hw-08-gallery/
+<a href="/homework-8/src/index.html">Задание</a>
